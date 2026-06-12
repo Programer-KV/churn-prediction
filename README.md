@@ -81,7 +81,7 @@ POST /predict
 ## How to Run
 1. Clone the repository
 ````bash
-   git clone https://github.com/Programer-KV/churn-prediction.git
+   git clone https://github.com/Vashisht-Kshitij/churn-prediction.git
    cd churn-prediction
 ````
 2. Install dependencies
